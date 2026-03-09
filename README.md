@@ -63,14 +63,6 @@ Short description of the project.
 
 ---
 
-# 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Darkenola\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkenola\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
 # 💬 Developer Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
