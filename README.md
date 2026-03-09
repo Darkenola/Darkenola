@@ -1,39 +1,73 @@
-# 👋 Hi, I'm Emirhan
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Emirhan;Software+Developer;Building+Cool+Things+With+Code" />
 
-### Software Developer | Tech Enthusiast | Problem Solver
+## 👨‍💻 About Me
 
-I’m a developer who enjoys building useful software, exploring new technologies and turning ideas into real projects.
-My focus is on writing clean code, learning continuously and improving my development skills.
+I'm **Emirhan**, a developer passionate about building software, exploring technologies and solving problems with code.
 
----
-
-# 🧠 About Me
-
-* 💻 Passionate about **software development**
-* 🚀 Interested in **automation, backend systems and modern tools**
-* 🧩 I enjoy **solving problems and building projects**
+* 🚀 Focused on **software development**
+* 🧠 Interested in **automation and backend systems**
+* 💻 Love building **real projects**
 * 🌍 Based in **Türkiye**
 * 📚 Always learning new technologies
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+---
+
+### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ---
 
-### Tools & Technologies
+### Frameworks / Runtime
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=nextdotjs)
+
+---
+
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 Project 1
+
+Short description of the project.
+
+### 🔹 Project 2
+
+Short description of the project.
+
+### 🔹 Project 3
+
+Short description of the project.
+
+---
+
+# 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Darkenola\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkenola\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
@@ -53,4 +87,4 @@ My focus is on writing clean code, learning continuously and improving my develo
 
 ---
 
-⭐ *Code. Build. Learn. Repeat.*
+⭐ **Code. Learn. Build. Repeat.**
