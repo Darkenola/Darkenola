@@ -6,21 +6,21 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I'm **Emirhan**, a developer passionate about building software, exploring technologies and solving problems with code.
 
 * 🚀 Focused on **software development**
-* 🧠 Interested in **backend systems, automation and software architecture**
-* 💻 Love building **real-world projects**
+* 🧠 Interested in **automation and backend systems**
+* 💻 Love building **real projects**
 * 🌍 Based in **Türkiye**
-* 📚 Always learning **new technologies**
+* 📚 Always learning new technologies
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
@@ -31,37 +31,25 @@ I'm **Emirhan**, a developer passionate about building software, exploring techn
 
 ---
 
-### 🎨 Frontend
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ---
 
-### ⚙️ Frameworks / Runtime
+### Frameworks / Runtime
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=nextdotjs)
 
 ---
 
-### 🧰 Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=Darkenola\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkenola\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
 
 ---
 
@@ -81,19 +69,21 @@ Short description of the project.
 
 ---
 
+# 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Darkenola\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkenola\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
 # 💬 Developer Quote
 
-<div align="center">
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
-</div>
 
 ---
 
 # 🌐 Connect With Me
-
-<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Darkenola-black?style=for-the-badge\&logo=github)](https://github.com/Darkenola)
 
@@ -101,12 +91,6 @@ Short description of the project.
 
 [![Instagram](https://img.shields.io/badge/Instagram-han_atc-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/han_atc/)
 
-</div>
-
 ---
 
-<div align="center">
-
 ⭐ **Code. Learn. Build. Repeat.**
-
-</div>
