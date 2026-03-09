@@ -50,7 +50,7 @@ I'm **Emirhan**, a developer passionate about building software, exploring techn
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-[![WEBSİTE](image-url)](https://emirhanatici.xyz)
+[![Website](https://img.shields.io/badge/Website-emirhanatici.xyz-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emirhanatici.xyz)
 
 ---
 
