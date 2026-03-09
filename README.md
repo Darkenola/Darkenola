@@ -1,9 +1,19 @@
 # 👋 Hi, I'm Emirhan
 
-### 💻 Software Developer | Problem Solver | Tech Enthusiast
+### Software Developer | Tech Enthusiast | Problem Solver
 
-I'm passionate about building useful software, learning modern technologies and turning ideas into real-world projects.
-I enjoy solving problems, experimenting with tools and continuously improving my development skills.
+I’m a developer who enjoys building useful software, exploring new technologies and turning ideas into real projects.
+My focus is on writing clean code, learning continuously and improving my development skills.
+
+---
+
+# 🧠 About Me
+
+* 💻 Passionate about **software development**
+* 🚀 Interested in **automation, backend systems and modern tools**
+* 🧩 I enjoy **solving problems and building projects**
+* 🌍 Based in **Türkiye**
+* 📚 Always learning new technologies
 
 ---
 
@@ -27,30 +37,6 @@ I enjoy solving problems, experimenting with tools and continuously improving my
 
 ---
 
-# 📂 Featured Projects
-
-### 🚀 Personal Projects
-
-Projects focused on learning, experimenting and building practical solutions.
-
-🔗 https://github.com/Darkenola
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darkenola\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkenola\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-# 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darkenola\&theme=tokyo-night)
-
----
-
 # 💬 Developer Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
@@ -60,6 +46,10 @@ Projects focused on learning, experimenting and building practical solutions.
 # 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Darkenola-black?style=for-the-badge\&logo=github)](https://github.com/Darkenola)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-darkenola-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/darkenola/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-han_atc-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/han_atc/)
 
 ---
 
